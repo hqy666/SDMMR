@@ -2,7 +2,7 @@
 
 This is the PyTorch implementation for **SDMMR**.
 
-<img src="./figures/model.png" style="zoom:100%;" />
+![model](https://github.com/user-attachments/assets/3beda3b0-ed42-479c-ade0-7e080ec344ec)
 
 ## 📝 Environment
 
@@ -17,7 +17,8 @@ We develop our codes in the following environment:
 
 Performance comparison of baselines on different datasets in terms of Recall@10, Recall@20, NDCG@10 and NDCG@20:
 
-<img src="./figures/performance.png" style="zoom:100%;" />
+![performance](https://github.com/user-attachments/assets/19c557ea-07ef-435f-bc8f-44847637e411)
+
 
 ## 🚀 How to run the codes
 
@@ -71,4 +72,5 @@ python Main.py --data sports --reg 1e-6 --ssl_reg 2e-2 --ris_lambda 0.1 --e_loss
 
 ## 📚 Datasets
 
-<img src="./figures/dataset.png" style="zoom:100%;" />
+![dataset](https://github.com/user-attachments/assets/9284b143-5a6c-4255-acf8-5825cd71e98f)
+
