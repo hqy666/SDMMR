@@ -1,0 +1,61 @@
+Epoch 0/20, Train: Loss = 0.4150, BPR Loss = 0.4092, CL loss = 0.5278, Di image loss = 9.8339, Di text loss = 6.3554
+Epoch 0/20, Test: Recall = 0.0733, NDCG = 0.0315, Precision = 0.0039
+
+Epoch 1/20, Train: Loss = 0.3256, BPR Loss = 0.3079, CL loss = 0.5000, Di image loss = 4.6034, Di text loss = 3.6334
+Epoch 1/20, Test: Recall = 0.0803, NDCG = 0.0340, Precision = 0.0042
+
+Epoch 2/20, Train: Loss = 0.2883, BPR Loss = 0.2586, CL loss = 0.4914, Di image loss = 3.3835, Di text loss = 2.9874
+Epoch 2/20, Test: Recall = 0.0844, NDCG = 0.0352, Precision = 0.0044
+
+Epoch 3/20, Train: Loss = 0.2701, BPR Loss = 0.2307, CL loss = 0.4850, Di image loss = 3.0738, Di
+Epoch 3/20, Test: Recall = 0.0861, NDCG = 0.0359, Precision = 0.0045
+
+Epoch 4/20, Train: Loss = 0.2558, BPR Loss = 0.2083, CL loss = 0.4799, Di image loss = 2.8490, Di text loss = 2.4682
+Epoch 4/20, Test: Recall = 0.0840, NDCG = 0.0355, Precision = 0.0044
+
+Epoch 5/20, Train: Loss = 0.2468, BPR Loss = 0.1926, CL loss = 0.4763, Di image loss = 2.7125, Di text loss = 2.3437
+Epoch 5/20, Test: Recall = 0.0858, NDCG = 0.0366, Precision = 0.0045
+
+Epoch 6/20, Train: Loss = 0.2385, BPR Loss = 0.1788, CL loss = 0.4739, Di image loss = 2.5468, Di text loss = 2.2284
+Epoch 6/20, Test: Recall = 0.0875, NDCG = 0.0370, Precision = 0.0046
+
+Epoch 7/20, Train: Loss = 0.2316, BPR Loss = 0.1674, CL loss = 0.4718, Di image loss = 2.4430, Di text loss = 2.0545
+Epoch 7/20, Test: Recall = 0.0890, NDCG = 0.0378, Precision = 0.0047
+
+Epoch 8/20, Train: Loss = 0.2260, BPR Loss = 0.1580, CL loss = 0.4704, Di image loss = 2.3863, Di text loss = 1.9593
+Epoch 8/20, Test: Recall = 0.0901, NDCG = 0.0378, Precision = 0.0047
+
+Epoch 9/20, Train: Loss = 0.2240, BPR Loss = 0.1529, CL loss = 0.4692, Di image loss = 2.2742, Di text loss = 1.9034
+Epoch 9/20, Test: Recall = 0.0897, NDCG = 0.0378, Precision = 0.0047
+
+Epoch 10/20, Train: Loss = 0.2188, BPR Loss = 0.1452, CL loss = 0.4677, Di image loss = 2.1320, Di text loss = 1.8060
+Epoch 10/20, Test: Recall = 0.0914, NDCG = 0.0384, Precision = 0.0048
+
+Epoch 11/20, Train: Loss = 0.2161, BPR Loss = 0.1405, CL loss = 0.4675, Di image loss = 2.0825, Di text loss = 1.7744
+Epoch 11/20, Test: Recall = 0.0911, NDCG = 0.0383, Precision = 0.0048
+
+Epoch 12/20, Train: Loss = 0.2138, BPR Loss = 0.1365, CL loss = 0.4665, Di image loss = 2.0320, Di text loss = 1.7691
+Epoch 12/20, Test: Recall = 0.0916, NDCG = 0.0385, Precision = 0.0048
+
+Epoch 13/20, Train: Loss = 0.2123, BPR Loss = 0.1337, CL loss = 0.4661, Di image loss = 1.9848, Di text loss = 1.6632
+Epoch 13/20, Test: Recall = 0.0908, NDCG = 0.0382, Precision = 0.0048
+
+Epoch 14/20, Train: Loss = 0.2099, BPR Loss = 0.1302, CL loss = 0.4659, Di image loss = 1.9115, Di text loss = 1.6200
+Epoch 14/20, Test: Recall = 0.0928, NDCG = 0.0382, Precision = 0.0048
+
+Epoch 15/20, Train: Loss = 0.2082, BPR Loss = 0.1277, CL loss = 0.4652, Di image loss = 1.8963, Di text loss = 1.5749
+Epoch 15/20, Test: Recall = 0.0946, NDCG = 0.0392, Precision = 0.0048
+
+Epoch 16/20, Train: Loss = 0.2060, BPR Loss = 0.1246, CL loss = 0.4652, Di image loss = 1.8768, Di text loss = 1.5838
+Epoch 16/20, Test: Recall = 0.0973, NDCG = 0.0409, Precision = 0.0049
+
+Epoch 17/20, Train: Loss = 0.2049, BPR Loss = 0.1230, CL loss = 0.4647, Di image loss = 1.7828, Di text loss = 1.5663
+Epoch 17/20, Test: Recall = 0.0918, NDCG = 0.0389, Precision = 0.0048
+
+Epoch 18/20, Train: Loss = 0.2037, BPR Loss = 0.1214, CL loss = 0.4645, Di image loss = 1.7765, Di text loss = 1.4430
+Epoch 18/20, Test: Recall = 0.0935, NDCG = 0.0391, Precision = 0.0048
+
+Epoch 19/20, Train: Loss = 0.2028, BPR Loss = 0.1202, CL loss = 0.4644, Di image loss = 1.6987, Di text loss = 1.4545
+Epoch 19/20, Test: Recall = 0.0913, NDCG = 0.0390, Precision = 0.0048
+
+Best epoch :  16  , Recall :  0.09733339700498353  , NDCG :  0.040906563161380926  , Precision 0.004867575212136797

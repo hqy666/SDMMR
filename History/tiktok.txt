@@ -1,0 +1,61 @@
+Epoch 0/20, Train: Loss = 0.4156, BPR Loss = 0.3925, CL loss = 1.5164, Di image loss = 3961.1889, Di text loss = 139.6840, Di audio loss = 25.3416
+Epoch 0/20, Test: Recall = 0.0498, NDCG = 0.0233, Precision = 0.0025
+
+Epoch 1/20, Train: Loss = 0.3665, BPR Loss = 0.3344, CL loss = 1.4800, Di image loss = 199.4137, Di text loss = 47.1821, Di audio loss = 20.7575
+Epoch 1/20, Test: Recall = 0.0588, NDCG = 0.0320, Precision = 0.0038
+
+Epoch 1/20, Train: Loss = 0.3665, BPR Loss = 0.3162, CL loss = 1.4739, Di image loss = 163.2783, Di text loss = 40.2734, Di audio loss = 17.3782
+Epoch 1/20, Test: Recall = 0.0691, NDCG = 0.0340, Precision = 0.0042
+
+Epoch 3/20, Train: Loss = 0.3431, BPR Loss = 0.2939, CL loss = 1.4673, Di image loss = 212.3982, Di text loss = 34.8564, Di audio loss = 13.1996
+Epoch 3/20, Test: Recall = 0.0752, NDCG = 0.0368, Precision = 0.0046
+
+Epoch 4/20, Train: Loss = 0.3356, BPR Loss = 0.2807, CL loss = 1.4616, Di image loss = 118.8655, Di text loss = 17.4190, Di audio loss = 6.9671
+Epoch 4/20, Test: Recall = 0.0935, NDCG = 0.0383, Precision = 0.0047
+
+Epoch 5/20, Train: Loss = 0.3356, BPR Loss = 0.2759, CL loss = 1.4548, Di image loss = 60.3573, Di text loss = 9.5460, Di audio loss = 5.8163
+Epoch 5/20, Test: Recall = 0.0954, NDCG = 0.0392, Precision = 0.0048
+
+Epoch 6/20, Train: Loss = 0.3292, BPR Loss = 0.2657, CL loss = 1.4548, Di image loss = 32.2172, Di text loss = 8.0715, Di audio loss = 5.3379
+Epoch 6/20, Test: Recall = 0.0997, NDCG = 0.0414, Precision = 0.0050
+
+Epoch 7/20, Train: Loss = 0.3291, BPR Loss = 0.2630, CL loss = 1.4504, Di image loss = 33.8743, Di text loss = 7.6801, Di audio loss = 5.3910
+Epoch 7/20, Test: Recall = 0.0990, NDCG = 0.0400, Precision = 0.0050
+
+Epoch 8/20, Train: Loss = 0.3318, BPR Loss = 0.2638, CL loss = 1.4522, Di image loss = 32.8687, Di text loss = 10.4530, Di audio loss = 3.2996
+Epoch 8/20, Test: Recall = 0.0985, NDCG = 0.0396, Precision = 0.0049
+
+Epoch 9/20, Train: Loss = 0.3265, BPR Loss = 0.2568, CL loss = 1.4494, Di image loss = 21.2936, Di text loss = 7.2753, Di audio loss = 4.1992
+Epoch 9/20, Test: Recall = 0.1026, NDCG = 0.0408, Precision = 0.0051
+
+Epoch 10/20, Train: Loss = 0.3279, BPR Loss = 0.2571, CL loss = 1.4471, Di image loss = 11.7882, Di text loss = 13.5127, Di audio loss = 4.5647
+Epoch 10/20, Test: Recall = 0.1051, NDCG = 0.0418, Precision = 0.0053
+
+Epoch 11/20, Train: Loss = 0.3261, BPR Loss = 0.2544, CL loss = 1.4411, Di image loss = 13.7243, Di text loss = 20.9667, Di audio loss = 4.0349
+Epoch 11/20, Test: Recall = 0.1084, NDCG = 0.0439, Precision = 0.0054
+
+Epoch 12/20, Train: Loss = 0.3200, BPR Loss = 0.2475, CL loss = 1.4467, Di image loss = 11.1931, Di text loss = 36.2493, Di audio loss = 3.4068
+Epoch 12/20, Test: Recall = 0.1121, NDCG = 0.0452, Precision = 0.0056
+
+Epoch 13/20, Train: Loss = 0.3227, BPR Loss = 0.2496, CL loss = 1.4468, Di image loss = 10.8104, Di text loss = 19.7695, Di audio loss = 2.9349
+Epoch 13/20, Test: Recall = 0.1028, NDCG = 0.0424, Precision = 0.0051
+
+Epoch 14/20, Train: Loss = 0.3239, BPR Loss = 0.2503, CL loss = 1.4425, Di image loss = 10.2293, Di text loss = 13.2084, Di audio loss = 2.7892
+Epoch 14/20, Test: Recall = 0.1059, NDCG = 0.0432, Precision = 0.0053
+
+Epoch 15/20, Train: Loss = 0.3212, BPR Loss = 0.2473, CL loss = 1.4429, Di image loss = 6.9691, Di text loss = 12.3960, Di audio loss = 3.1816
+Epoch 15/20, Test: Recall = 0.0997, NDCG = 0.0428, Precision = 0.0050
+
+Epoch 16/20, Train: Loss = 0.3225, BPR Loss = 0.2484, CL loss = 1.4414, Di image loss = 12.7329, Di text loss = 9.4285, Di audio loss = 3.1399
+Epoch 16/20, Test: Recall = 0.1059, NDCG = 0.0430, Precision = 0.0053
+
+Epoch 17/20, Train: Loss = 0.3196, BPR Loss = 0.2455, CL loss = 1.4402, Di image loss = 6.5358, Di text loss = 7.8305, Di audio loss = 3.0477
+Epoch 17/20, Test: Recall = 0.1049, NDCG = 0.0420, Precision = 0.0052
+
+Epoch 18/20, Train: Loss = 0.3189, BPR Loss = 0.2448, CL loss = 1.4397, Di image loss = 6.6317, Di text loss = 11.7297, Di audio loss = 3.0571
+Epoch 18/20, Test: Recall = 0.1067, NDCG = 0.0433, Precision = 0.0053
+
+Epoch 19/20, Train: Loss = 0.3213, BPR Loss = 0.2474, CL loss = 1.4424, Di image loss = 5.9027, Di text loss = 13.9881, Di audio loss = 2.9344
+Epoch 19/20, Test: Recall = 0.1108, NDCG = 0.0446, Precision = 0.0054
+
+Best epoch :  12  , Recall :  0.11215660685154975  , NDCG :  0.04520170995572857  , Precision 0.005607830342577489
